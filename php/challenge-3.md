@@ -46,7 +46,7 @@ phpinfo();//';
 ?>
 ```
 
-访问：/xxxxx/option.php
+最后访问：/xxxxx/option.php
 
 ## 法二
 访问：
@@ -61,6 +61,8 @@ phpinfo();//';
 $option='aaa\\';phpinfo();//';
 ?>
 ```
+
+最后访问：/xxxxx/option.php
 
 # Refference 
 + p神的小秘圈
