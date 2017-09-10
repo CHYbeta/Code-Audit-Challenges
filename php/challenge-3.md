@@ -13,7 +13,11 @@ $option='test';
 ```
 # Solution
 流程如下：
-1. 对传入的option参数
+1. 对传入的option参数进行addslashes，比如有单引号`'`，会变成`\'`
+2. 通过正则匹配xxxxx/option.php中的`$option='xxx';`，将xxx的内容替换为经第一步处理的值
+3. 替换完成，将其写入xxxxx/option.php。
+
+场景： 用于写入配置文件等。
 
 ## 法一
 
