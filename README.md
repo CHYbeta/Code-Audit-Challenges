@@ -7,7 +7,7 @@
 ---
 ## PHP
 
-* [Challenge 1](php/challenge-1.md)
+* [Challenge 1](php/challenge-1.md)：phpBug #69892
 * [Challenge 2](php/challenge-2.md)：php弱类型、is_numeric（）、强制类型转换
 * [Challenge 3](php/challenge-3.md)：
 * [Challenge 4](php/challenge-4.md)
@@ -86,6 +86,7 @@
     + [Challenge 17](php/challenge-17.md)
     + [Challenge 23](php/challenge-23.md)
 + 其他
+    + [Challenge 1](php/challenge-1.md)
     + [Challenge 3](php/challenge-3.md)
     + [Challenge 5](php/challenge-5.md)
     + [Challenge 25](php/challenge-25.md)
