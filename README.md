@@ -1,4 +1,4 @@
-# [Code-Audit-Challenge](https://github.com/CHYbeta/Code-Audit-Challenges)
+# [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
 
 一些有趣的代码审计“小”题目。
 
