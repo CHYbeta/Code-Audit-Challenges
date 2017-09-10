@@ -14,7 +14,7 @@
 * [Challenge 5](php/challenge-5.md)：webshell、waf绕过
 * [Challenge 6](php/challenge-6.md)：命令执行、waf绕过
 * [Challenge 7](php/challenge-7.md)：php弱类型
-* [Challenge 8](php/challenge-8.md)
+* [Challenge 8](php/challenge-8.md)：SQL注入
 * [Challenge 9](php/challenge-9.md)：php Session 序列化问题
 * [Challenge 10](php/challenge-10.md)：php://input、php弱类型、eregi
 * [Challenge 11](php/challenge-11.md)：SQL注入
