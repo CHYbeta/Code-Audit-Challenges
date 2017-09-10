@@ -52,6 +52,9 @@
 * [Challenge 43](php/challenge-43.md)
 * [Challenge 44](php/challenge-44.md)
 * [Challenge 45](php/challenge-45.md)
+* [Challenge 46](php/challenge-46.md)
+* [Challenge 47](php/challenge-47.md)
+* [Challenge 48](php/challenge-48.md)
 
 
 ## 分类
