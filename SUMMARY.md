@@ -1,3 +1,55 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+
+## PHP
+
+* [Challenge 1](php/challenge-1.md)
+* [Challenge 2](php/challenge-2.md)
+* [Challenge 3](php/challenge-3.md)
+* [Challenge 4](php/challenge-4.md)
+* [Challenge 5](php/challenge-5.md)
+* [Challenge 6](php/challenge-6.md)
+* [Challenge 7](php/challenge-7.md)
+* [Challenge 8](php/challenge-8.md)
+* Challenge 9
+* Challenge 10
+* [Challenge 11](php/challenge-11.md)
+* [Challenge 12](php/challenge-12.md)
+* [Challenge 13](php/challenge-13.md)
+* Challenge 14
+* Challenge 15
+* Challenge 16
+* [Challenge 17](php/challenge-17.md)
+* [Challenge 18](php/challenge-18.md)
+* [Challenge 19](php/challenge-19.md)
+* [Challenge 20](php/challenge-20.md)
+* [Challenge 21](php/challenge-21.md)
+* [Challenge 22](php/challenge-22.md)
+* [Challenge 23](php/challenge-23.md)
+* [Challenge 24](php/challenge-24.md)
+* [Challenge 25](php/challenge-25.md)
+* [Challenge 26](php/challenge-26.md)
+* [Challenge 27](php/challenge-27.md)
+* [Challenge 28](php/challenge-28.md)
+* [Challenge 29](php/challenge-29.md)
+* [Challenge 30](php/challenge-30.md)
+* [Challenge 31](php/challenge-31.md)
+* [Challenge 32](php/challenge-32.md)
+* [Challenge 33](php/challenge-33.md)
+* [Challenge 34](php/challenge-34.md)
+* [Challenge 35](php/challenge-35.md)
+* [Challenge 36](php/challenge-36.md)
+* [Challenge 37](php/challenge-37.md)
+* [Challenge 38](php/challenge-38.md)
+* [Challenge 39](php/challenge-39.md)
+* [Challenge 40](php/challenge-40.md)
+* [Challenge 41](php/challenge-41.md)
+* [Challenge 42](php/challenge-42.md)
+* [Challenge 43](php/challenge-43.md)
+* [Challenge 44](php/challenge-44.md)
+* [Challenge 45](php/challenge-45.md)
+* [Challenge 46](php/challenge-46.md)
+* [Challenge 47](php/challenge-47.md)
+* [Challenge 48](php/challenge-48.md)
+
