@@ -73,6 +73,10 @@ if ($uid == 0) {
         echo "Welcome back user\n";
 }
 ```
+# Solution
+此题运行在 PHP 5.4.30 上。
+详细解答见： [PHP Challenge 2015 Solution](http://www.sektioneins.de/blog/15-08-03-php_challenge_2015_solution.html)
+
 
 # Reffenence
 + [PHP Challenge 2015](http://www.sektioneins.de/blog/15-07-31-php_challenge_2015.html)
