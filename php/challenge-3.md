@@ -53,9 +53,9 @@ phpinfo();//';
 ```
 ?option=aaa\';phpinfo();//
 ```
-经过addslashes后，$str为 `aaa\\';phpinfo();//`
+经过addslashes后，$str为 `aaa\\\';phpinfo();//`
 
-经过正则匹配后,xxxxx/option.php的内容变为：
+经过preg_replace正则匹配后，对`\`做了转义处理,xxxxx/option.php的内容变为：
 ```
 <?php 
 $option='aaa\\';phpinfo();//';
