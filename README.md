@@ -55,7 +55,7 @@
 * [Challenge 46](php/challenge-46.md)
 * [Challenge 47](php/challenge-47.md)
 * [Challenge 48](php/challenge-48.md)
-
+* [Challenge 49](php/challenge-49.md)：哈希长度扩展攻击
 
 ## 分类
 + SQL注入
