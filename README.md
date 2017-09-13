@@ -91,6 +91,8 @@
     + [Challenge 5](php/challenge-5.md)
     + [Challenge 25](php/challenge-25.md)
     + [Challenge 27](php/challenge-27.md)
+    + [Challenge 49](php/challenge-49.md)
+    
 ---
 ## 题目来源：
 + 各大CTF-OJ平台
