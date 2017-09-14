@@ -53,4 +53,5 @@
 * [Challenge 47](php/challenge-47.md)
 * [Challenge 48](php/challenge-48.md)
 * [Challenge 49](php/challenge-49.md)
+* [Challenge 50](php/challenge-50.md)
 
