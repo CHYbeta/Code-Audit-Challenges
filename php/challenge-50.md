@@ -20,6 +20,8 @@ payload：
 ```
 http://localhost:2500/?id=1'/*1*/union slect * from flag %23
 ```
+![](https://github.com/CHYbeta/chybeta.github.io/blob/master/images/pic/20170914/8.png?raw=true)
+
 ## 法二
 [$_REQUEST](http://php.net/manual/zh/reserved.variables.request.php)变量默认情况下包含了 $_GET，$_POST 和 $_COOKIE 的数组。在 php.ini 配置文件中，有一个参数variables_order
 ![](https://github.com/CHYbeta/chybeta.github.io/blob/master/images/pic/20170914/5.png?raw=true)
