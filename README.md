@@ -1,5 +1,8 @@
 # [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
 
+## Attention: 还未整理完毕，请勿宣扬hh
+要不，先默默的点个赞不？
+
 一些有趣的代码审计“小”题目。
 
 目的；
@@ -7,8 +10,6 @@
 2. 为CTF-Web-dog提供一些套路。
 3. 暂时先告诉大家：php是世上最好的语言。
 4. 以后还想告诉大家：python、node-js、java也是最好的语言。
-
-## Attention: 还未整理完毕，请勿宣扬hh
 
 ---
 ## PHP
