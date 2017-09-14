@@ -1,15 +1,15 @@
 # Challenge 
 ```php 
 <?php
-$flag = "you get the flag.";
-if (isset($_REQUEST['id']) && $_REQUEST['id'] === "flag"){
-	die("Attack detected!!!");
+if(isset($_REQUEST['id'])){
+	if(preg_match("/'(?:\w*)\W*?[a-z].*(R|ELECT|OIN|NTO|HERE|NION)/i", $_REQUEST['id'])){
+		die("Attack detected!!!");
+	}
 }
 
-if (isset($_GET['id']) && $_GET['id'] === 'flag'){
-	echo $flag;
-}
-
+$sql = "select * from xxx where id = '{$_GET['id']}'";
+echo $sql;
+$result = sql_query($_GET['id']);
 ?>
 ```
 
