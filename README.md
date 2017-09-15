@@ -1,9 +1,6 @@
 # [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
 
-## Attention: 还未整理完毕，请勿宣扬hh
-要不，先默默的点个赞不？
-
-## Description
+## About
 一些有趣的代码审计“小”题目。
 
 目的；
