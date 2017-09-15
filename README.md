@@ -1,13 +1,19 @@
 # [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
 
-## About
+## 说明
 一些有趣的代码审计“小”题目。
 
 1. 为代码审计新手/小白提供一些帮助。
 2. 为CTF-Web-dog提供一些套路。
 3. 暂时先告诉大家：php是世上最好的语言。
 4. 以后还想告诉大家：python、node-js、java也是最好的语言。
-5. 会
+5. 会不断整理更新，
+
+## 题目来源：
++ 各大CTF-OJ平台
++ 各大CTF赛事
++ 知识星球等知识分享平台
++ 师傅们的想象力
 
 ---
 ## PHP
@@ -101,10 +107,6 @@
     + [Challenge 49](php/challenge-49.md)
     
 ---
-## 题目来源：
-+ 各大CTF-OJ平台
-+ 各大CTF赛事
-+ 知识星球等知识分享平台
-+ 师傅们的想象力
+
 
 
