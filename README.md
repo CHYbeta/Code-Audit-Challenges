@@ -110,6 +110,7 @@
     + [Challenge 25](php/challenge-25.md)
     + [Challenge 27](php/challenge-27.md)
     + [Challenge 49](php/challenge-49.md)
+    + [Challenge 54](php/challenge-54.md)
     
 ---
 
