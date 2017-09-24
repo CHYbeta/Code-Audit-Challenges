@@ -5,7 +5,9 @@
 
 1. 为代码审计新手/小白提供一些帮助。
 2. 为CTF-Web-dog提供一些套路。
-3. 暂时先告诉大家：php是世上最好的语言。
+3. 暂时先告诉大家：
+     1. [php是世上最好的语言](https://github.com/CHYbeta/Code-Audit-Challenges#php)
+     2. [python也是世上好的语言](https://github.com/CHYbeta/Code-Audit-Challenges#python)
 4. 以后还想告诉大家：python、node-js、java也是最好的语言。
 5. 会不断整理更新，删/换部分题目。
 
