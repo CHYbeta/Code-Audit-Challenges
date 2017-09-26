@@ -62,3 +62,5 @@
 
 ## PYTHON
 
+* [Challenge 1](python/challenge-1.md)
+
