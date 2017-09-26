@@ -1,5 +1,4 @@
-#
-Challenge
+#Challenge
 server.py:
 ```python
 from flask import *
