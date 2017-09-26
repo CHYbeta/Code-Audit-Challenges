@@ -62,8 +62,7 @@
 
 ## PYTHON
 
-* [Challenge 1](python/challenge-1.md)
-* [Challenge 2](python/challenge-2.md)
+* [Challenge 1](python/challenge-2.md)
   * [server.py](python/challenge-2/serverpy.md)
   * [hash.py](python/challenge-2/hashpy.md)
 
