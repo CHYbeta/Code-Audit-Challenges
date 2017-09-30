@@ -166,5 +166,8 @@ class SLHA1(object):
 
 ```
 
+# Solution 
+详细解答请见：[BackdoorCTF 2017-Extends Me-writeup ](https://chybeta.github.io/2017/09/28/BackdoorCTF-2017-Extends-Me-writeup/)
+
 # Refference
 + BackdoorCTF 2017 - Extends Me
