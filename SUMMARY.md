@@ -59,6 +59,7 @@
 * [Challenge 53](php/challenge-53.md)
 * [Challenge 54](php/challenge-54.md)
 * [Challenge 55](php/challenge-55.md)
+* [Challenge 56](php/challenge-56.md)
 
 ## PYTHON
 
