@@ -8,7 +8,7 @@
      1. [php](https://github.com/CHYbeta/Code-Audit-Challenges#php)
      2. [python](https://github.com/CHYbeta/Code-Audit-Challenges#python)
      3. [node-js](https://github.com/CHYbeta/Code-Audit-Challenges#node-js)
-3. 以后还想告诉大家：python、node-js、java也是最好的语言。
+3. 以后还想告诉大家：java等也是最好的语言。
 4. 会不断整理更新，删/换部分题目。
 
 ## 题目来源：
