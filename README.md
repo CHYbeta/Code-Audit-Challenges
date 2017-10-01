@@ -78,6 +78,9 @@
 * [Challenge 52](php/challenge-52.md)
 * [Challenge 53](php/challenge-53.md)
 * [Challenge 54](php/challenge-54.md)：Padding Oracle
+* [Challenge 55](php/challenge-55.md)：SSRF
+* [Challenge 56](php/challenge-56.md)：SQL注入
+
 
 ### 分类
 + SQL注入
