@@ -65,3 +65,7 @@
 
 * [Challenge 1](python/challenge-1.md)
 
+## Node-js
+
+* [Challenge 1](node-js/challenge-1.md)
+
