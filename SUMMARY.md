@@ -63,6 +63,10 @@
 * [Challenge 57](php/challenge-57.md)
 * [Challenge 58](php/challenge-58.md)
 
+## RUBY
+
+* [Challenge 1](ruby/challenge-1.md)
+
 ## PYTHON
 
 * [Challenge 1](python/challenge-1.md)
