@@ -25,19 +25,15 @@
 
 ---
 ## PYTHON 
-### 列表
 * [Challenge 1](python/challenge-1.md)：哈希长度扩展攻击
 
 ## Node-js
-### 列表
 * [Challenge 1](node-js/challenge-1.md)：文件读取，URL处理
 
 ## Ruby
-### 列表
 * [Challenge 1](ruby/challenge-1.md)：SQL注入
 
 ## PHP
-### 列表
 * [Challenge 1](php/challenge-1.md)：phpBug #69892
 * [Challenge 2](php/challenge-2.md)：php弱类型、is_numeric（）、强制类型转换
 * [Challenge 3](php/challenge-3.md)：php配置文件写入问题
@@ -99,44 +95,58 @@
 
 
 
-### 分类
+## 分类
 + SQL注入
-    + [Challenge 8](php/challenge-8.md)
-    + [Challenge 11](php/challenge-11.md)
-    + [Challenge 14](php/challenge-14.md)
-    + [Challenge 16](php/challenge-16.md)
-    + [Challenge 18](php/challenge-18.md) 
-    + [Challenge 19](php/challenge-19.md) 
-    + [Challenge 20](php/challenge-20.md)
-    + [Challenge 24](php/challenge-24.md)
-    + [Challenge 50](php/challenge-50.md)
+    + PHP:
+        + [Challenge 8](php/challenge-8.md)
+        + [Challenge 11](php/challenge-11.md)
+        + [Challenge 14](php/challenge-14.md)
+        + [Challenge 16](php/challenge-16.md)
+        + [Challenge 18](php/challenge-18.md) 
+        + [Challenge 19](php/challenge-19.md) 
+        + [Challenge 20](php/challenge-20.md)
+        + [Challenge 24](php/challenge-24.md)
+        + [Challenge 50](php/challenge-50.md)
+    + Ruby:
+        + [Challenge 1](ruby/challenge-1.md)
 + 命令执行
-    + [Challenge 4](php/challenge-4.md)
-    + [Challenge 6](php/challenge-6.md)
-    + [Challenge 12](php/challenge-12.md)
-+ php弱类型比较等
-    + [Challenge 1](php/challenge-1.md)
-    + [Challenge 2](php/challenge-2.md)
-    + [Challenge 7](php/challenge-7.md)
-    + [Challenge 10](php/challenge-10.md)
-    + [Challenge 13](php/challenge-13.md)
-    + [Challenge 15](php/challenge-15.md)
-    + [Challenge 21](php/challenge-21.md)
-    + [Challenge 26](php/challenge-26.md)
-+ php反序列化
-    + [Challenge 9](php/challenge-9.md)
-+ php变量覆盖
-    + [Challenge 17](php/challenge-17.md)
-    + [Challenge 23](php/challenge-23.md)
+    + PHP:
+        + [Challenge 4](php/challenge-4.md)
+        + [Challenge 6](php/challenge-6.md)
+        + [Challenge 12](php/challenge-12.md)
++ 弱类型比较等
+    + PHP:
+        + [Challenge 1](php/challenge-1.md)
+        + [Challenge 2](php/challenge-2.md)
+        + [Challenge 7](php/challenge-7.md)
+        + [Challenge 10](php/challenge-10.md)
+        + [Challenge 13](php/challenge-13.md)
+        + [Challenge 15](php/challenge-15.md)
+        + [Challenge 21](php/challenge-21.md)
+        + [Challenge 26](php/challenge-26.md)
++ 反序列化
+    + PHP:
+        + [Challenge 9](php/challenge-9.md)
++ 变量覆盖
+    + PHP:
+        + [Challenge 17](php/challenge-17.md)
+        + [Challenge 23](php/challenge-23.md)
++ 密码学相关
+    + PHP:
+        + [Challenge 49](php/challenge-49.md)
+        + [Challenge 54](php/challenge-54.md)
+    + PYTHON:
+        + [Challenge 1](python/challenge-1.md)
 + 其他
-    + [Challenge 1](php/challenge-1.md)
-    + [Challenge 3](php/challenge-3.md)
-    + [Challenge 5](php/challenge-5.md)
-    + [Challenge 25](php/challenge-25.md)
-    + [Challenge 27](php/challenge-27.md)
-    + [Challenge 49](php/challenge-49.md)
-    + [Challenge 54](php/challenge-54.md)
-    
+    + PHP:
+        + [Challenge 1](php/challenge-1.md)
+        + [Challenge 3](php/challenge-3.md)
+        + [Challenge 5](php/challenge-5.md)
+        + [Challenge 25](php/challenge-25.md)
+        + [Challenge 27](php/challenge-27.md)
+        + [Challenge 49](php/challenge-49.md)
+    + Node-js:
+        + [Challenge 1](node-js/challenge-1.md)
 ---
 
 
