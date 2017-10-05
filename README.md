@@ -8,7 +8,8 @@
      1. [php](https://github.com/CHYbeta/Code-Audit-Challenges#php)
      2. [python](https://github.com/CHYbeta/Code-Audit-Challenges#python)
      3. [node-js](https://github.com/CHYbeta/Code-Audit-Challenges#node-js)
-3. 以后还想告诉大家：java等也是最好的语言。
+     4. [Ruby](https://github.com/CHYbeta/Code-Audit-Challenges#ruby)
+3. 以后还想告诉大家：java等等也是最好的语言。
 4. 会不断整理更新，删/换部分题目。
 
 ## 题目来源：
@@ -23,6 +24,18 @@
 该repo仅就原代码处的有趣点/漏洞点提出说明以及相应的解答。若有好的题目欢迎提供。
 
 ---
+## PYTHON 
+### 列表
+* [Challenge 1](python/challenge-1.md)：哈希长度扩展攻击
+
+## Node-js
+### 列表
+* [Challenge 1](node-js/challenge-1.md)：文件读取，URL处理
+
+## Ruby
+### 列表
+* [Challenge 1](ruby/challenge-1.md)：SQL注入
+
 ## PHP
 ### 列表
 * [Challenge 1](php/challenge-1.md)：phpBug #69892
@@ -125,13 +138,6 @@
     + [Challenge 54](php/challenge-54.md)
     
 ---
-## PYTHON 
-### 列表
-* [Challenge 1](python/challenge-1.md)：哈希长度扩展攻击
-
-## Node-js
-### 列表
-* [Challenge 1](node-js/challenge-1.md)：文件读取，URL处理
 
 
 
