@@ -62,6 +62,7 @@
 * [Challenge 56](php/challenge-56.md)
 * [Challenge 57](php/challenge-57.md)
 * [Challenge 58](php/challenge-58.md)
+* [Challenge 59](php/challenge-59.md)
 
 ## RUBY
 
