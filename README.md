@@ -147,6 +147,7 @@
         + [Challenge 25](php/challenge-25.md)
         + [Challenge 27](php/challenge-27.md)
         + [Challenge 49](php/challenge-49.md)
+        + [Challenge 59](php/challenge-59.md)
     + Node-js:
         + [Challenge 1](node-js/challenge-1.md)
 ---
