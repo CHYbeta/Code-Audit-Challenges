@@ -29,6 +29,8 @@
 
 ## Node-js
 * [Challenge 1](node-js/challenge-1.md)：文件读取，URL处理
+* [Challenge 2](node-js/challenge-2.md)：SQL注入
+
 
 ## Ruby
 * [Challenge 1](ruby/challenge-1.md)：SQL注入
@@ -114,6 +116,8 @@
         + [Challenge 50](php/challenge-50.md)
     + Ruby:
         + [Challenge 1](ruby/challenge-1.md)
+    + Node.js:
+        + [Challenge 2](node-js/challenge-2.md)
 + 命令执行
     + PHP:
         + [Challenge 4](php/challenge-4.md)
