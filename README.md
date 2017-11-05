@@ -93,6 +93,9 @@
 * [Challenge 57](php/challenge-57.md)
 * [Challenge 58](php/challenge-58.md)
 * [Challenge 59](php/challenge-59.md)：hash碰撞
+* [Challenge 60](php/challenge-60.md)：命令执行
+* [Challenge 61](php/challenge-61.md)：SSRF
+
 
 
 
@@ -116,6 +119,8 @@
         + [Challenge 4](php/challenge-4.md)
         + [Challenge 6](php/challenge-6.md)
         + [Challenge 12](php/challenge-12.md)
+        + [Challenge 60](php/challenge-60.md)：命令执行
+
 + 弱类型比较等
     + PHP:
         + [Challenge 1](php/challenge-1.md)
