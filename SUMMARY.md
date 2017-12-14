@@ -81,3 +81,7 @@
 * [Challenge 1](node-js/challenge-1.md)
 * [Challenge 2](node-js/challenge-2.md)
 
+## PERL
+
+* [Challenge 1](perl/challenge-1.md)
+
