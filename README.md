@@ -138,6 +138,7 @@
         + [Challenge 15](php/challenge-15.md)
         + [Challenge 21](php/challenge-21.md)
         + [Challenge 26](php/challenge-26.md)
+        + [Challenge 64](php/challenge-64.md)
 + 反序列化
     + PHP:
         + [Challenge 9](php/challenge-9.md)
