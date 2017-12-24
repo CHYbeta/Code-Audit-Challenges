@@ -97,6 +97,9 @@
 * [Challenge 59](php/challenge-59.md)：hash碰撞
 * [Challenge 60](php/challenge-60.md)：命令执行
 * [Challenge 61](php/challenge-61.md)：SSRF
+* [Challenge 62](php/challenge-62.md)：
+* [Challenge 63](php/challenge-63.md)：
+* [Challenge 64](php/challenge-64.md)：php弱类型，php整型溢出、php伪协议等
 
 
 
