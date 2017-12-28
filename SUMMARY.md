@@ -78,6 +78,12 @@
 * [Challenge 72](php/challenge-72.md)
 * [Challenge 73](php/challenge-73.md)
 * [Challenge 74](php/challenge-74.md)
+* [Challenge 75](php/challenge-75.md)
+* [Challenge 76](php/challenge-76.md)
+* Challenge 77
+* Challenge 78
+* Challenge 79
+* Challenge 80
 
 ## RUBY
 
