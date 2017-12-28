@@ -71,6 +71,13 @@
 * [Challenge 65](php/challenge-65.md)
 * [Challenge 66](php/challenge-66.md)
 * [Challenge 67](php/challenge-67.md)
+* [Challenge 68](php/challenge-68.md)
+* [Challenge 69](php/challenge-69.md)
+* [Challenge 70](php/challenge-70.md)
+* [Challenge 71](php/challenge-71.md)
+* [Challenge 72](php/challenge-72.md)
+* [Challenge 73](php/challenge-73.md)
+* [Challenge 74](php/challenge-74.md)
 
 ## RUBY
 
