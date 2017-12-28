@@ -80,10 +80,20 @@
 * [Challenge 74](php/challenge-74.md)
 * [Challenge 75](php/challenge-75.md)
 * [Challenge 76](php/challenge-76.md)
-* Challenge 77
+* [Challenge 77](php/challenge-77.md)
 * [Challenge 78](php/challenge-78.md)
 * [Challenge 79](php/challenge-79.md)
 * [Challenge 80](php/challenge-80.md)
+* [Challenge 81](php/challenge-81.md)
+* [Challenge 82](php/challenge-82.md)
+* [Challenge 83](php/challenge-83.md)
+* [Challenge 84](php/challenge-84.md)
+* [Challenge 85](php/challenge-85.md)
+* [Challenge 86](php/challenge-86.md)
+* [Challenge 87](php/challenge-87.md)
+* [Challenge 88](php/challenge-88.md)
+* [Challenge 89](php/challenge-89.md)
+* [Challenge 90](php/challenge-90.md)
 
 ## RUBY
 
