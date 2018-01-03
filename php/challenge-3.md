@@ -67,3 +67,4 @@ $option='aaa\\';phpinfo();//';
 # Refference 
 + p神的小秘圈
 + [l3m0n：小密圈专题(1)-配置文件写入问题](http://www.cnblogs.com/iamstudy/articles/config_file_write_vue.html)
++ [[CVE-2016-7565]Exponent CMS 2.3.9 配置文件写入 getshell分析 ](https://chybeta.github.io/2017/12/11/CVE-2016-7565-Exponent-CMS-2-3-9-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5-getshell%E5%88%86%E6%9E%90/)
