@@ -15,4 +15,4 @@ The payload has to be split up into 2 segments: First, a PHP function to execute
 https://github.com/ctfs/write-ups-2014/tree/master/hack-lu-ctf-2014/next-global-backdoor
 
 # Refference
-+ php-security-calendar-2017 
++ php-security-calendar-2017 Day 24 - Nutcracker
