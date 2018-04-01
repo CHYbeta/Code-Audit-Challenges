@@ -109,6 +109,7 @@
 
 * [Challenge 1](node-js/challenge-1.md)
 * [Challenge 2](node-js/challenge-2.md)
+* [Challenge 3](node-js/challenge-3.md)
 
 ## PERL
 
