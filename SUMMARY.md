@@ -97,6 +97,7 @@
 * [Challenge 91](php/challenge-91.md)
 * [Challenge 92](php/challenge-92.md)
 * [Challenge 93](php/challenge-93.md)
+* [Challenge 94](php/challenge-94.md)
 
 ## RUBY
 
