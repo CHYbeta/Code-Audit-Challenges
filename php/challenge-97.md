@@ -66,6 +66,17 @@ if (empty($_GET['action'])) {
 }
 ```
 
+config.php:
+```php
+<?php
+
+set_time_limit(10);
+define('FLAG', 'DCTF{7b39c8fcaef42b2f72d1f7d6f0686802bd9282f289f125281fd92c67572dd390}');
+
+// added afterwards, not part of the challenge and keeps crashing apache because of a scenario
+$_SERVER['REQUEST_URI'] = '/';
+```
+# 
 # Refference
-+ hitcon ctf 2018 one-line-php-challenge
-+ https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2018/one-line-php-challenge
++ DefCamp CTF Finals 2018 
++ https://github.com/w181496/CTF/tree/master/dctf2018-final/Scribbles
